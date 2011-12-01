@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Unnamed" type="flex">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/flare_lib/build" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/flare_lib/flare/src" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/flare_lib/build" recursive="false" />
+  </library>
+</component>

@@ -1,0 +1,628 @@
+id	age	cause	date	lat	lon	name	race	sex	url
+10652	19	Gunshot	09/16/2007	33.907621	-118.231408	Alexander Ponce	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/09/alexander-ponce.html
+10653	21	Gunshot	09/16/2007	33.838525	-118.389093	Yaneth Ordorica	Hispanic	Female	http://latimesblogs.latimes.com/homicidereport/2007/09/young-woman-kil.html
+10651	0	Gunshot	09/15/2007	34.057975	-118.271341	Luis Garcia	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/09/23-day-old-baby.html
+10655	34	Gunshot	09/15/2007	33.893216	-118.005813	Joseph Crisci	Other	Male	http://latimesblogs.latimes.com/homicidereport/2007/09/joseph-crisci-3.html
+10648	37	Gunshot	09/15/2007	33.775348	-118.199357	Angel Diaz	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/09/angel-diaz-37.html
+10649	20	Gunshot	09/15/2007	33.936009	-118.229261	Edgar Meza	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/09/lynwood-shootin.html
+10650	17	Gunshot	09/15/2007	33.844738	-118.308193	Martin Garcia	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/09/weekend-homicid.html
+10647	27	Gunshot	09/15/2007	34.701144	-118.155903	Carmel Joshua	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/09/carmel-joshua-2.html
+10646	61	Stabbing	09/14/2007	34.037051	-118.352303	Charles Patterson	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/09/charles-patters.html
+10645	19	Gunshot	09/13/2007	33.9358	-118.332275	Manuel Aguilar	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/09/inglewood-homic.html
+10644	48	Gunshot	09/13/2007	34.060639	-117.746596	Larry Hunnicutt	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/09/larry-hunnicutt.html
+10642	40	Other	09/12/2007	34.01768	-117.982322	Juan Perez	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/09/juan-perez-40.html
+10641	21	Gunshot	09/12/2007	34.013923	-117.917359	Mario Gallegos	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/09/mario-gallegos-.html
+10640	26	Gunshot	09/11/2007	34.584472	-118.151479	Alicia Cox	White	Female	http://latimesblogs.latimes.com/homicidereport/2007/09/palmdale-woman-.html
+10633	16	Gunshot	09/10/2007	34.706437	-118.118795	Eduardo Perez	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/09/eduardo-perez-1.html
+10638	23	Gunshot	09/10/2007	34.006755	-118.247306	Walter Hernandez	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/09/walter-hernande.html
+10639	9	Stabbing	09/10/2007	33.890215	-118.112131	Lesette Guereca	Hispanic	Female	http://latimesblogs.latimes.com/homicidereport/2007/09/bellflower-girl.html
+10654	22	Gunshot	09/10/2007	33.793974	-118.158955	David Pettigrew	White	Male	http://latimesblogs.latimes.com/homicidereport/2007/09/david-pettigrew.html
+10632	30	Gunshot	09/10/2007	34.017748	-118.350442	Charlzette Bryant	Black	Female	http://latimesblogs.latimes.com/homicidereport/2007/09/southwest-aga-1.html
+10634	21	Gunshot	09/09/2007	33.900696	-118.330781	Elaine Coleman	Black	Female	http://latimesblogs.latimes.com/homicidereport/2007/09/woman-stabbing-.html
+10630	52	Other	09/09/2007	34.098101	-118.30599	Rose Marco	Other	Female	http://latimesblogs.latimes.com/homicidereport/2007/09/rose-marco-52.html
+10628	19	Gunshot	09/09/2007	33.982611	-118.327911	Frederick Mcintosh	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/09/frederick-mcint.html
+10629	30	Gunshot	09/09/2007	33.804945	-118.263984	Rafael, Jr Acosta	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/09/carson-man-shot.html
+10623	61	Gunshot	09/08/2007	34.249954	-118.617728	Nina Oved	White	Female	http://latimesblogs.latimes.com/homicidereport/2007/09/nina-oved-61.html
+10626	27	Gunshot	09/08/2007	34.061682	-118.310731	Morris Moran	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/09/last-night.html
+10624	34	Gunshot	09/08/2007	33.92477	-118.051184	Mireya Mendoza-Lares	Hispanic	Female	http://latimesblogs.latimes.com/homicidereport/2007/09/mireya-mendoza-.html
+10625	38	Stabbing	09/08/2007	34.007334	-118.324438	Sophia Broussard	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/09/southwest-homic.html
+10621	46	Gunshot	09/06/2007	34.010047	-118.290003	Edwin Bell	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/09/southwest-again.html
+10619	47	Stabbing	09/05/2007	34.042255	-118.245259	Michael Bell	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/09/just-in-downtow.html
+10620	47	Gunshot	09/05/2007	34.014628	-118.312324	Herbert Stevens III	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/09/just-in-southwe.html
+10615	37	Gunshot	09/03/2007	33.960911	-118.306826	Hassan Johnson	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/09/man-dies-after-.html
+10614	24	Gunshot	09/03/2007	34.284071	-118.415535	Alexander Nunez	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/09/alexander-nunez.html
+10609	17	Gunshot	09/02/2007	33.934575	-118.291516	Rayvion Corsey	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/09/overnight-homic.html
+10613	28	Stabbing	09/02/2007	34.078891	-117.876422	Christopher Fridd	White	Male	http://latimesblogs.latimes.com/homicidereport/2007/09/christopher-fri.html
+10608	28	Gunshot	09/02/2007	33.874745	-118.151151	Lashaun Menifee	Black	Female	http://latimesblogs.latimes.com/homicidereport/2007/09/lashaun-menifee.html
+10610	41	Gunshot	09/02/2007	34.160101	-118.14757	Alonso Cardenas	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/09/alonso-cardenas.html
+10612	17	Gunshot	09/02/2007	33.849352	-118.260124	Roger Mcdowell	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/09/roger-mcdowell-.html
+10611	26	Gunshot	09/02/2007	33.884259	-118.225756	Zamar Mcknight	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/09/zamar-mcknight-.html
+10607	18	Stabbing	09/02/2007	33.95167	-118.211933	Manuel Pasqual	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/09/other-homicides.html
+10604	27	Gunshot	09/01/2007	34.02646	-117.731514	Ruben Castaneda	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/09/ruben-castaneda.html
+10616	17	Gunshot	09/01/2007	33.966025	-118.190956	Octavio Lino	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/09/octavio-lino-17.html
+10657	57	Blunt Force	09/01/2007	34.281932	-118.407575	Jean Hyde	Hispanic	Female	http://latimesblogs.latimes.com/homicidereport/2007/09/jean-hyde-57.html
+10603	20	Gunshot	08/31/2007	34.047109	-118.282401	Angel Bautista Mendoza	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/09/angel-bautista-.html
+10602	17	Other	08/31/2007	33.976835	-118.345854	Eric Howard	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/09/eric-howard-17.html
+10601	45	Other	08/30/2007	34.629791	-118.23545	Robert Jetter	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/09/robert-jetter-4.html
+10599	57	Gunshot	08/30/2007	33.793496	-118.191072	Jose Magana	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/09/jose-magana-57.html
+10600	32	Gunshot	08/30/2007	34.03018	-118.148523	Jose Santur	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/09/jose-santur-32.html
+10597	39	Other	08/28/2007	33.969894	-118.304631	Will Donald Jr.	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/09/will-donald-jr-.html
+10598	23	Gunshot	08/28/2007	33.931273	-118.24999	Bryan Hollis	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/09/bryan-hollis-23.html
+10595	23	Stabbing	08/27/2007	33.77358	-118.17634	Kerry Everett	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/09/kerry-everett-2.html
+10596	32	Stabbing	08/27/2007	34.136697	-118.255322	Joanne Sarkis	White	Female	http://latimesblogs.latimes.com/homicidereport/2007/09/joanne-sarkis-3.html
+10594	21	Gunshot	08/27/2007	33.990632	-118.313842	Thomas Rankins, Jr.	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/09/thomas-rankins-.html
+10592	2	Other	08/27/2007	33.882968	-118.210146	Mariah Howard	Black	Female	http://latimesblogs.latimes.com/homicidereport/2007/09/mariah-howard-2.html
+10593	24	Gunshot	08/27/2007	33.956487	-118.265435	Miguel Gomez	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/09/miguel-gomez-24.html
+10587	47	Stabbing	08/26/2007	34.037696	-118.242462	Michael Mcknight	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/09/michael-mcknigh.html
+10588	38	Gunshot	08/26/2007	33.984257	-118.26955	Maurice Johnson	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/09/maurice-johnson.html
+10589	33	Other	08/26/2007	34.274741	-118.556593	Daniel Koch	White	Male	http://latimesblogs.latimes.com/homicidereport/2007/09/daniel-koch-33.html
+10591	24	Gunshot	08/26/2007	33.906623	-118.232621	Francis Bendek	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/09/francis-bendek-.html
+10586	25	Gunshot	08/26/2007	34.014413	-118.350736	Eligah Rhaburn	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/09/eligah-rhaburn-.html
+10590	23	Gunshot	08/26/2007	33.887162	-118.233877	Joe Garcia	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/09/joe-garcia-23.html
+10585	23	Stabbing	08/25/2007	33.771719	-118.182185	Robert Mcgruder Jr. 	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/09/robert-mcgruder.html
+10584	26	Gunshot	08/25/2007	33.996234	-118.199101	Frank Maravilla	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/09/frank-maravilla.html
+10582	29	Blunt Force	08/24/2007	34.011824	-118.404344	Jo Ann Harris	Black	Female	http://latimesblogs.latimes.com/homicidereport/2007/09/jo-ann-harris-2.html
+10581	18	Gunshot	08/24/2007	34.014604	-118.080721	Rito Torres	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/09/rito-torres-18.html
+10580	18	Gunshot	08/24/2007	34.076294	-118.300411	Fernando Castellanos	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/09/fernando-castel.html
+10583	0	Other	08/24/2007	34.011824	-118.404344	Baby Boy Harris	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/09/jo-ann-harris-2.html
+10576	58	Blunt Force	08/23/2007	33.923708	-118.265179	Carl Johnson III	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/09/carl-johnson-ii.html
+10579	22	Gunshot	08/23/2007	34.09569	-118.287838	Edwin Catalan	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/09/edwin-catalan-2.html
+10575	17	Gunshot	08/22/2007	33.786449	-118.195058	Moises Contreras	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/09/moises-contrera.html
+10573	19	Gunshot	08/22/2007	34.057731	-118.291629	Henry Saucedo	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/09/henry-saucedo.html
+10574	31	Gunshot	08/22/2007	34.061265	-118.263764	Victor Romero	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/09/victor-romero-3.html
+10572	22	Gunshot	08/21/2007	33.972983	-118.269581	Herberth Hernandez	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/09/herberth-hernan.html
+10570	18	Gunshot	08/21/2007	34.016326	-118.351713	Donzell Ghoston	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/09/donzell-gohston.html
+10571	20	Gunshot	08/21/2007	33.911723	-118.339451	Rickey Harvey	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/09/rickey-harvey-2.html
+10567	41	Gunshot	08/20/2007	34.052069	-118.3216	Herber Paredes	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/09/herber-paredes-.html
+10569	41	Gunshot	08/20/2007	34.045763	-118.182962	Esgardo Encinas	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/09/esgardo-encinas.html
+10568	19	Gunshot	08/20/2007	33.989596	-118.180377	Hugo Valencia	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/09/hugo-valencia-1.html
+10565	33	Gunshot	08/20/2007	33.938311	-118.262263	Shawn Sowell	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/08/shawn-sowell-33.html
+10566	22	Gunshot	08/19/2007	33.861883	-118.185042	Riko Robinson	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/08/riko-robinson-2.html
+10564	20	Gunshot	08/19/2007	34.053169	-118.244245	Tramaine Thomas	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/08/tramaine-thomas.html
+10635	18	Gunshot	08/19/2007	34.088542	-118.300471	Sarai Lopez	Hispanic	Female	http://latimesblogs.latimes.com/homicidereport/2007/08/abigail-sarai-l.html
+10563	21	Gunshot	08/19/2007	34.017332	-118.302377	Beatrice Santiago	Hispanic	Female	http://latimesblogs.latimes.com/homicidereport/2007/08/pride-of-the-fa.html
+10562	22	Gunshot	08/19/2007	34.017332	-118.302377	Roberto Santiago Jr. 	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/08/roberto-santiag.html
+10555	15	Gunshot	08/18/2007	34.002944	-118.269611	Connie Williams	Black	Female	http://latimesblogs.latimes.com/homicidereport/2007/08/connie-williams.html
+10558	15	Gunshot	08/18/2007	33.930252	-118.249264	Donta Bolden	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/08/donta-bolden-15.html
+10553	18	Stabbing	08/18/2007	34.069789	-118.126645	Monson Afualo	Other	Male	http://latimesblogs.latimes.com/homicidereport/2007/08/afualo-monson-1.html
+10554	16	Gunshot	08/18/2007	34.18084	-118.159662	Ebony Huel	Black	Female	http://latimesblogs.latimes.com/homicidereport/2007/08/ebony-huel-16.html
+10556	24	Gunshot	08/18/2007	33.834105	-118.278597	Ellis Lewis	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/08/ellis-lewis-24.html
+10636	25	Gunshot	08/18/2007	33.787534	-118.320026	Carlos Villavicencio	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/08/carlos-villavic.html
+10549	18	Gunshot	08/16/2007	34.084084	-117.749219	Dominicque Davis	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/08/pomona-homicide.html
+10550	69	Other	08/16/2007	33.803725	-118.300581	Bobby Goodwin	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/08/bobby-goodwin-6.html
+10551	17	Gunshot	08/16/2007	34.044811	-118.323686	Michael Pena	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/08/michael-pena-17.html
+10547	28	Other	08/15/2007	34.040534	-118.379178	Bronwyn Sullivan	White	Female	http://latimesblogs.latimes.com/homicidereport/2007/08/harbor-west-la-.html
+10545	29	Gunshot	08/15/2007	33.982403	-117.831353	Gregory Eversole	White	Male	http://latimesblogs.latimes.com/homicidereport/2007/08/diamond-bar.html
+10546	16	Gunshot	08/15/2007	34.692006	-118.117577	Calvin Davis	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/08/lancaster-16-ye.html
+10548	48	Stabbing	08/15/2007	34.126537	-117.88878	Thomas Ruelas	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/08/thomas-ruelas-4.html
+10543	45	Gunshot	08/14/2007	34.046259	-118.205853	Brent Mckinney	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/08/chp-officers-sh.html
+10544	23	Gunshot	08/14/2007	34.057306	-118.067168	Peter Rodriguez	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/08/deputies-kill-s.html
+10542	57	Gunshot	08/13/2007	34.012768	-118.067168	Maria Hicks	Hispanic	Female	http://latimesblogs.latimes.com/homicidereport/2007/08/pico-rivera-wom.html
+10541	32	Gunshot	08/12/2007	34.01477	-118.259236	Isaias Vasquez Bazan	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/08/newton-homicide.html
+10538	20	Blunt Force	08/11/2007	34.203049	-118.518584	Peter Martinez	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/08/peter-martinez-.html
+10539	46	Stabbing	08/11/2007	34.033696	-118.531704	Seth Grinspan	White	Male	http://latimesblogs.latimes.com/homicidereport/2007/08/pacific-coast-h.html
+10540	25	Gunshot	08/11/2007	34.283981	-118.424706	Jose Morales	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/08/northeast-san-f.html
+10537	38	Stabbing	08/10/2007	34.041526	-118.237374	Bryan Wooden	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/08/downtown-homici.html
+10531	45	Gunshot	08/09/2007	34.09971	-117.891292	Michael Petro	White	Male	http://latimesblogs.latimes.com/homicidereport/2007/08/michael-petro-4.html
+10536	30	Gunshot	08/09/2007	34.090112	-118.166691	John Rico	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/08/john-rico-30.html
+10533	39	Gunshot	08/09/2007	34.312644	-118.437024	Anita Delgado	Hispanic	Female	http://latimesblogs.latimes.com/homicidereport/2007/08/anita-delgado-3.html
+10534	49	Gunshot	08/09/2007	34.189407	-118.308388	Manyam Masihi	Other	Female	http://latimesblogs.latimes.com/homicidereport/2007/08/three-dead-in-b.html
+10535	48	Gunshot	08/09/2007	34.189407	-118.308388	Vahik Farhadian	Other	Male	http://latimesblogs.latimes.com/homicidereport/2007/08/vahik-farhadian.html
+10530	60	Stabbing	08/09/2007	34.088916	-118.02104	Marcelino Gonzales	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/08/el-monte.html
+10532	26	Gunshot	08/09/2007	34.004585	-118.288614	Noel Velasco	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/08/southwest-homic.html
+10529	27	Stabbing	08/08/2007	33.986727	-117.907702	Neal Williams	White	Male	http://latimesblogs.latimes.com/homicidereport/2007/08/possible-first-.html
+10528	3	Other	08/08/2007	33.986727	-117.907702	Ian Williams	Other	Male	http://latimesblogs.latimes.com/homicidereport/2007/08/ian-williams-3.html
+10526	15	Gunshot	08/08/2007	34.057653	-118.30783	Ricardo Favela	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/08/ricardo-favela-.html
+10527	7	Other	08/08/2007	33.986727	-117.907702	Devon Williams	Other	Male	http://latimesblogs.latimes.com/homicidereport/2007/08/devon-williams-.html
+10522	32	Gunshot	08/07/2007	33.987944	-118.229065	Armando Garcia	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/08/armando-garcia-.html
+10525	32	Gunshot	08/07/2007	33.944351	-118.263785	Jarrod Sellers	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/08/just-in-van-nuy.html
+10523	24	Gunshot	08/07/2007	33.974673	-118.277395	Leonel Hurta	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/08/south-central-h.html
+10524	39	Gunshot	08/07/2007	34.174842	-118.259236	Luis Velarde	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/08/luis-velarde-39.html
+10521	22	Gunshot	08/06/2007	34.12288	-117.998515	Robert Mcghee	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/08/monrovia-homici.html
+10517	17	Gunshot	08/06/2007	34.024166	-118.262315	Emelio Perez	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/08/emelio-perez-17.html
+10519	23	Gunshot	08/06/2007	33.79599	-118.276405	Artemio Alvarado	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/08/artemio-alvarad.html
+10511	40	Gunshot	08/05/2007	34.592129	-117.843297	Ray Toothman	White	Male	http://latimesblogs.latimes.com/homicidereport/2007/08/ray-toothman-40.html
+10514	23	Gunshot	08/05/2007	33.976993	-118.265171	Cristela Campos	Hispanic	Female	http://latimesblogs.latimes.com/homicidereport/2007/08/sundaymonday-fo.html
+10515	31	Gunshot	08/05/2007	34.001705	-118.287117	Kareem Wafer	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/08/kareem-wafer-31.html
+10512	26	Stabbing	08/05/2007	34.075034	-117.728935	Edbert Ordonez	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/08/edbert-ordonez-.html
+10513	64	Gunshot	08/05/2007	33.966747	-118.343908	Walter McGowan	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/08/inglewood-man-f.html
+10510	29	Gunshot	08/04/2007	34.082133	-118.704535	Arturo Guzman	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/08/malibu-creek-ra.html
+10605	36	Gunshot	08/01/2007	33.886783	-118.246911	Charles Logan	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/09/charles-logan-3.html
+10509	17	Gunshot	07/31/2007	33.923723	-118.258207	Henry Henderson	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/08/henry-henderson.html
+10506	20	Stabbing	07/31/2007	33.977074	-117.869184	Boo Lee	Asian	Male	http://latimesblogs.latimes.com/homicidereport/2007/08/boo-lee.html
+10507	51	Gunshot	07/31/2007	34.029971	-118.039212	Ruben Gomez	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/08/ruben-gomez-51.html
+10508	16	Gunshot	07/31/2007	34.089279	-118.301866	Edwin Orozco	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/08/edwin-orozco-17.html
+10502	34	Gunshot	07/30/2007	34.099658	-117.955595	Benjamin Nunez	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/08/benjamin-nunez-.html
+10503	18	Gunshot	07/30/2007	34.033066	-118.348181	Shantell Martinez	Hispanic	Female	http://latimesblogs.latimes.com/homicidereport/2007/08/shantell-martin.html
+10504	27	Gunshot	07/30/2007	33.975652	-118.332662	Aldale Woodard Jr.	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/08/aldale-woodard-.html
+10505	16	Gunshot	07/30/2007	33.960005	-118.29929	Britany Johnson	Black	Female	http://latimesblogs.latimes.com/homicidereport/2007/08/britany-johnson.html
+10501	22	Gunshot	07/30/2007	33.91019	-118.296389	Alex Diaz	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/08/alex-diaz-22.html
+10485	23	Gunshot	07/30/2007	33.950622	-118.323376	Carl Young	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/07/inglewood-case.html
+10480	18	Gunshot	07/29/2007	33.893788	-118.146906	Benjamin Velasco	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/07/benjamin-velasc.html
+10481	66	Stabbing	07/29/2007	34.068889	-118.297927	Christopher Thomas	White	Male	http://latimesblogs.latimes.com/homicidereport/2007/07/christopher-tho.html
+10482	21	Gunshot	07/29/2007	33.893788	-118.146906	Julio Ramirez	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/07/double-homicide.html
+10483	14	Gunshot	07/29/2007	33.988526	-118.25543	Ivan Perez	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/07/ivan-perez-14.html
+10484	45	Other	07/29/2007	33.996622	-118.273981	Oscar Diaz	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/07/oscar-rene-mira.html
+10497	62	Gunshot	07/29/2007	34.01176	-117.860363	Ruben Whittington	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/07/just-in-retired.html
+10475	23	Gunshot	07/28/2007	34.069369	-117.980075	Richard Herrera	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/07/richard-herrera.html
+10476	22	Gunshot	07/28/2007	34.085955	-118.297253	Jeffrey Nicola	White	Male	http://latimesblogs.latimes.com/homicidereport/2007/07/little-armenia-.html
+10477	23	Gunshot	07/28/2007	33.930658	-118.291196	Donye Giles	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/07/donye-giles-23.html
+10478	44	Gunshot	07/28/2007	33.917095	-118.326398	Enrique Rincon	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/07/enrique-rincon-.html
+10479	20	Gunshot	07/28/2007	33.9939	-118.24115	Antonio Wooten	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/07/antonio-wooten-.html
+10470	31	Gunshot	07/27/2007	34.172417	-118.153753	Joseph Vargas	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/07/joseph-vargas-3.html
+10471	34	Gunshot	07/27/2007	34.172417	-118.153753	Sergio Mendez	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/07/pasadena-double.html
+10472	25	Stabbing	07/27/2007	34.058734	-118.230511	Lavone Smith	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/07/lavone-smith-25.html
+10473	38	Blunt Force	07/27/2007	34.263519	-118.30445	Jae Oh	Asian	Male	http://latimesblogs.latimes.com/homicidereport/2007/07/lapd-foothill-m.html
+10474	19	Gunshot	07/27/2007	33.847251	-118.100731	Velton Gates	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/07/velton-gates-19.html
+10466	18	Blunt Force	07/26/2007	33.922032	-118.346078	Ricardo Balderrama	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/07/ricardo-balderr.html
+10467	49	Gunshot	07/26/2007	34.051789	-117.736827	Fernando Mora	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/07/fernando-mora-4.html
+10468	43	Gunshot	07/26/2007	33.941911	-118.265154	Gerald Atlas	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/07/gerald-atlas-43.html
+10469	40	Gunshot	07/26/2007	33.808019	-118.195881	Raymundo Lopez	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/07/raymundo-lopez-.html
+10463	17	Gunshot	07/25/2007	33.959095	-118.218641	Gonzalo Martinez	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/07/gonzalo-martine.html
+10464	21	Gunshot	07/25/2007	33.844208	-118.0775	Moises Carrillo	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/07/moises-carrillo.html
+10465	17	Gunshot	07/25/2007	34.104991	-118.055678	Deandre Netter	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/07/deandre-netter-.html
+10461	25	Gunshot	07/24/2007	34.097271	-118.350649	Mark Gregg	White	Male	http://latimesblogs.latimes.com/homicidereport/2007/07/mark-gregg-25.html
+10462	16	Gunshot	07/24/2007	33.899416	-118.194652	Victor Lopez	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/07/rancho-domingue.html
+10459	43	Other	07/23/2007	33.959981	-118.307713	Daniel Svoboda	White	Male	http://latimesblogs.latimes.com/homicidereport/2007/07/daniel-svoboda-.html
+10460	76	Blunt Force	07/23/2007	34.118209	-118.15912	Sammy Wong	Asian	Male	http://latimesblogs.latimes.com/homicidereport/2007/07/sammy-wong-76.html
+10453	21	Gunshot	07/22/2007	33.728037	-118.288163	Jesus Valencia	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/07/jesus-valencia-.html
+10454	31	Gunshot	07/22/2007	34.041285	-117.939278	Paul Salazar	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/07/paul-salazar-31.html
+10455	31	Gunshot	07/22/2007	33.972296	-118.271365	Raymond Estrada	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/07/raymond-estrada.html
+10456	24	Gunshot	07/22/2007	33.88838	-118.309954	Deshawn Adams	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/07/desahwn-adams-2.html
+10457	25	Stabbing	07/22/2007	34.232572	-118.451533	David Delacruz	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/07/david-delacruz-.html
+10458	31	Gunshot	07/22/2007	33.979603	-118.278465	Carlton Turner	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/07/carlton-turner-.html
+10498	53	Stabbing	07/22/2007	34.07065	-118.218865	Rosa Cruz	Hispanic	Female	http://latimesblogs.latimes.com/homicidereport/2007/08/missed-case-lin.html
+10499	24	Gunshot	07/22/2007	34.087258	-118.167658	Juan Montenegro	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/07/missed-homicide.html
+10451	52	Blunt Force	07/21/2007	33.788982	-118.215293	Abraham Bevel	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/07/abraham-bevel-5.html
+10452	15	Gunshot	07/21/2007	34.089337	-118.250219	Michael Lezay	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/07/michael-lezay-1.html
+10448	26	Gunshot	07/20/2007	34.014025	-118.353765	Aric Lexing	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/07/just-in-double-.html
+10449	40	Gunshot	07/20/2007	34.014025	-118.353765	Scott Grant	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/07/scott-grant-40.html
+10450	18	Gunshot	07/20/2007	34.080904	-117.955756	Jose Carrillo	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/07/jose-carrillo-1.html
+10500	18	Gunshot	07/20/2007	33.945518	-118.284771	Jayvon Brister	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/08/jayvon-brister-.html
+10446	39	Gunshot	07/19/2007	34.100753	-118.345121	Pulod Davlatnazarov	White	Male	http://latimesblogs.latimes.com/homicidereport/2007/07/hollywood-robbe.html
+10447	14	Gunshot	07/19/2007	34.03275	-118.3823	Victor Garcia	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/07/just-in-west-la.html
+10445	18	Gunshot	07/18/2007	34.1228	-118.2043	Alfredo Ojeda	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/07/alfredo-ojeda-1.html
+10442	17	Gunshot	07/17/2007	34.048297	-118.355119	Ricardo Cervantes	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/07/ricardo-cervant.html
+10443	25	Gunshot	07/17/2007	34.040649	-118.311373	Eduardo Gonzalez	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/07/eduardo-gonzale.html
+10444	16	Gunshot	07/17/2007	33.87206	-118.250424	Reginald Hayes	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/07/reginald-hayes-.html
+10440	22	Gunshot	07/16/2007	34.088483	-118.309353	Jose Ventura	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/07/jose-ventura-22.html
+10441	17	Gunshot	07/16/2007	34.555537	-118.045132	Larry Padilla	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/07/larry-padilla-1.html
+10436	18	Gunshot	07/15/2007	33.845506	-118.266202	Tyrone Taylor	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/07/tyrone-taylor-1.html
+10437	20	Gunshot	07/15/2007	34.300729	-118.451128	Jorge Santana	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/07/jorge-santana-2.html
+10438	15	Gunshot	07/15/2007	33.9012	-118.1831	Marvin Pierson	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/07/paramount-15-ye.html
+10439	19	Gunshot	07/15/2007	34.019034	-118.347771	Michael Presley	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/07/michael-lynn-pr.html
+10434	19	Gunshot	07/15/2007	33.943	-118.300134	Fahad Ihsan	White	Male	http://latimesblogs.latimes.com/homicidereport/2007/07/more-weekend-ho.html
+10435	19	Gunshot	07/15/2007	33.86615	-118.168764	Christian Delgadillo	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/07/christian-delga.html
+10429	25	Gunshot	07/14/2007	34.013066	-118.121426	Melvin Estrada	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/07/melvin-estrada-.html
+10430	25	Gunshot	07/14/2007	33.944995	-118.362334	Sergio Martinez	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/07/sergio-martinez.html
+10431	48	Gunshot	07/14/2007	34.0065	-118.2784	Kenneth Johnson	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/07/kenneth-johnson.html
+10432	20	Gunshot	07/14/2007	33.81643	-118.330909	Charlie Wilson	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/07/charlie-wilson-.html
+10433	22	Gunshot	07/14/2007	33.81643	-118.330909	Shaun McCoy	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/07/two-men-killed-.html
+10428	44	Gunshot	07/13/2007	34.0065	-118.2784	Theodore Giddens	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/07/more-recent-kil.html
+10426	54	Blunt Force	07/11/2007	33.9872	-118.3308	Robert Green	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/07/crenshaw-daylig.html
+10427	20	Gunshot	07/11/2007	33.880869	-118.2352	Devian Luevanos	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/07/suspect-sought-.html
+10424	21	Gunshot	07/09/2007	33.961663	-118.240039	Jesus Garcia	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/07/jesus-garcia-21.html
+10425	20	Gunshot	07/09/2007	33.992611	-118.449493	Eric Lorenzo	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/07/eric-lorenzo-20.html
+10420	35	Gunshot	07/08/2007	34.580063	-118.147399	William Perez	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/07/william-perez-3.html
+10421	23	Gunshot	07/08/2007	34.091513	-118.21108	Edgar Madrigal Hernandez	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/07/edgar-madrigal-.html
+10422	26	Gunshot	07/08/2007	34.003464	-118.265133	Jerasmo Pena	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/07/jerasmo-pena-26.html
+10423	17	Gunshot	07/08/2007	34.059316	-118.263669	Gabriel Rodriguez	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/07/belmont-high-so.html
+10419	21	Gunshot	07/07/2007	33.998868	-118.481679	David Silva	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/07/david-silva-21.html
+10418	18	Gunshot	07/06/2007	34.0399	-118.3311	Brittani Idom	Black	Female	http://latimesblogs.latimes.com/homicidereport/2007/07/mid-city-passer.html
+10416	47	Gunshot	07/05/2007	34.096301	-118.226455	Lynette Lucero	Hispanic	Female	http://latimesblogs.latimes.com/homicidereport/2007/07/lynette-lucero-.html
+10417	34	Gunshot	07/05/2007	33.94728	-118.244664	LaRoyce Hollingsworth	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/07/watts-man-execu.html
+10415	17	Gunshot	07/04/2007	33.966955	-118.067027	Jesus Zapata	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/07/jesus-zapata-17.html
+10414	18	Gunshot	07/03/2007	33.935579	-118.313145	Joshua Davis	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/07/athens-young-ma.html
+10411	43	Gunshot	07/02/2007	33.864152	-118.355764	William Vasquez	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/07/william-vasquez.html
+10412	21	Gunshot	07/02/2007	33.795459	-118.210256	Anthony Perez	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/07/anthony-perez-2.html
+10413	54	Gunshot	07/02/2007	34.573037	-118.070264	Nadine Stauffer	White	Female	http://latimesblogs.latimes.com/homicidereport/2007/07/nadine-stauffer.html
+10406	24	Gunshot	07/01/2007	33.804637	-118.196641	Cesar Moran	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/07/cesar-moran-24.html
+10407	22	Stabbing	07/01/2007	33.787963	-118.176687	Dara Ork	Asian	Male	http://latimesblogs.latimes.com/homicidereport/2007/07/long-beach-surg.html
+10408	21	Gunshot	07/01/2007	33.786686	-118.192564	Aurelio Perez	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/07/aurelio-perez-2.html
+10409	20	Gunshot	07/01/2007	34.09368	-118.159663	Yessenia Macias	Hispanic	Female	http://latimesblogs.latimes.com/homicidereport/2007/07/alhambra-woman-.html
+10410	31	Gunshot	07/01/2007	34.265363	-118.478986	Eric Perez	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/07/eric-perez-31.html
+10404	27	Gunshot	06/30/2007	33.999623	-118.278565	Juan Cristales	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/07/juan-cristales-.html
+10405	19	Gunshot	06/30/2007	33.935142	-118.19672	Mertell Millender	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/07/mertel-millende.html
+10401	74	Gunshot	06/28/2007	33.818124	-118.342507	Heneraetta Hammond	White	Female	http://latimesblogs.latimes.com/homicidereport/2007/07/heneraetta-hamm.html
+10402	50	Gunshot	06/28/2007	34.030945	-118.023565	Frankie Acosta	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/07/frankie-acosta-.html
+10403	29	Gunshot	06/28/2007	33.732074	-118.287834	Carlos Clavel	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/07/carlos-clavel-2.html
+10397	0	Gunshot	06/26/2007	34.020977	-118.270691	Melody Rojas	Hispanic	Female	http://latimesblogs.latimes.com/homicidereport/2007/07/melody-rojas--1.html
+10398	26	Gunshot	06/26/2007	34.010559	-118.307648	Aaron Borden	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/07/aaron-borden-26.html
+10399	27	Gunshot	06/26/2007	33.87474	-118.14307	Armando Martinez	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/07/armando-martine.html
+10393	37	Gunshot	06/25/2007	34.032463	-118.325496	Isidro Perez	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/07/isidro-perez--1.html
+10394	19	Gunshot	06/25/2007	33.970713	-118.146929	Robert Hernandez	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/07/robert-hernan-1.html
+10395	13	Stabbing	06/25/2007	33.784498	-118.19242	Jose Cano	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/07/jose-cano-13.html
+10387	19	Gunshot	06/24/2007	33.889063	-118.152414	Salvador Avila, Jr.	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/06/salvador-avila-.html
+10388	20	Gunshot	06/24/2007	34.019219	-117.957326	Daniel Aguilar	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/06/daniel-aguilar-.html
+10389	24	Stabbing	06/24/2007	34.008418	-118.130093	Matthew Perez	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/06/matthew-perez-2.html
+10390	24	Gunshot	06/24/2007	34.009917	-118.268977	Oscar Castillo	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/06/oscar-castillo-.html
+10385	26	Stabbing	06/23/2007	34.1768	-118.4325	Owen Gin	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/06/owen-gin-26.html
+10386	26	Gunshot	06/23/2007	34.021468	-118.270311	Nazario Carrillo, Jr.	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/06/weekend-homicid.html
+10382	28	Gunshot	06/22/2007	34.686979	-118.130466	Antwoine Young	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/06/antwoine-young-.html
+10383	32	Gunshot	06/22/2007	34.0766	-118.2157	Moises Lopez	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/06/moises-lopez-32.html
+10384	35	Gunshot	06/22/2007	33.997463	-118.263599	Clyde Paschal	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/06/clyde-paschal-3.html
+10381	58	Blunt Force	06/21/2007	34.09545	-118.24321	Ignacio Juarez	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/06/ignacio-juarez-.html
+10377	20	Gunshot	06/20/2007	33.940763	-118.301118	Randy Jeanlouis	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/06/randy-jeanlouis.html
+10378	13	Gunshot	06/20/2007	33.9717	-118.2491	Luis Nevarres	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/06/luis-nevarres-1.html
+10379	21	Gunshot	06/20/2007	33.969663	-118.253587	Richard Mitchell	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/06/two-hospital-de.html
+10380	22	Gunshot	06/20/2007	33.9717	-118.2491	Aaron Diaz	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/06/aaron-diaz-22.html
+10373	46	Gunshot	06/18/2007	34.0082	-118.2941	Anthony Jenkins	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/06/anthony-jenkins.html
+10374	19	Gunshot	06/18/2007	34.0669	-117.7167	Shannon Fortune	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/06/shannon-fortune.html
+10375	19	Gunshot	06/18/2007	34.0669	-117.7167	Ashley Lunsford	Black	Female	http://latimesblogs.latimes.com/homicidereport/2007/06/pomona_double_h.html
+10376	21	Gunshot	06/18/2007	34.009488	-118.245425	Freddy Castro	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/06/freddy-castro-2.html
+10368	19	Gunshot	06/17/2007	34.5873	-118.087	Ramon Ramirez	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/06/john-doe-20.html
+10369	43	Stabbing	06/17/2007	34.074137	-118.075854	Yanshi Wang	Asian	Female	http://latimesblogs.latimes.com/homicidereport/2007/06/yanshi-wang-43.html
+10370	54	Blunt Force	06/17/2007	34.00367	-118.271625	Rene Aguilar	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/06/rene-aguilar-54.html
+10371	30	Gunshot	06/17/2007	33.997021	-118.455241	Noelia Vasquez	Hispanic	Female	http://latimesblogs.latimes.com/homicidereport/2007/06/murdersuicide_i.html
+10363	20	Gunshot	06/16/2007	34.257554	-118.404635	Alberto Molina	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/06/man_killed_work.html
+10364	26	Gunshot	06/16/2007	34.024565	-118.2	Augusto Zapata	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/06/augusto-zapata-.html
+10366	13	Stabbing	06/16/2007	33.946848	-118.212583	Yaskara Camacho	Hispanic	Female	http://latimesblogs.latimes.com/homicidereport/2007/06/yaskira-camacho.html
+10367	48	Stabbing	06/16/2007	33.986648	-118.274065	Antonio Simental	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/06/antonio-simenta.html
+10362	19	Gunshot	06/15/2007	33.9319	-118.3349	Franklin Hernandez	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/06/franklin-hernan.html
+10492	37	Gunshot	06/15/2007	34.068445	-118.162594	Jaime Saldana	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/06/alhambra_freewa.html
+10495	36	Stabbing	06/15/2007	33.946857	-118.212672	Yolanda Franco	Hispanic	Female	http://latimesblogs.latimes.com/homicidereport/2007/06/south_gate.html
+10360	53	Gunshot	06/14/2007	33.801982	-118.215234	Jose Luis Hernandes	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/06/jose-luis-herna.html
+10361	21	Gunshot	06/14/2007	34.046713	-118.207217	Carlos Lopez	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/06/carlos-lopez-21.html
+10358	19	Gunshot	06/13/2007	33.920746	-118.239364	Dion Miles Jr.	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/06/willowbrook_you.html
+10357	20	Gunshot	06/13/2007	33.924044	-118.27342	Detrick Ford 	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/06/wednesday_morni.html
+10359	16	Gunshot	06/13/2007	33.931	-118.2543	Dovon Harris	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/06/like_he_was_nob.html
+10354	29	Gunshot	06/12/2007	33.912763	-118.364829	Luis Rodriguez	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/06/luis_rodriguez_.html
+10355	25	Gunshot	06/12/2007	33.903565	-118.23008	Julio Montano	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/06/julio_cesar_mon.html
+10356	25	Gunshot	06/12/2007	34.03338568	-118.1697178	Michael Miller	White	Male	http://latimesblogs.latimes.com/homicidereport/2007/06/more_on_east_la.html
+10353	16	Gunshot	06/11/2007	33.993963	-118.300033	Ruben Garcia Castillo	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/06/ruben_garcia_ca.html
+10352	27	Gunshot	06/10/2007	33.99335	-118.2652	Pablo Hernandez	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/06/pablo_hernandez.html
+10351	15	Gunshot	06/10/2007	33.966479	-118.306958	Rodney Love	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/06/rodney_elijah_l.html
+10349	19	Gunshot	06/09/2007	34.045113	-118.208735	Jairo Martinez	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/06/monday_a_15year.html
+10350	22	Gunshot	06/09/2007	34.017113	-118.25102	Brian Herrera	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/06/lapd_newton_sou.html
+10345	25	Gunshot	06/08/2007	34.0479	-117.746185	Angel Aguayo	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/06/angel_aguayo_ag.html
+10346	18	Gunshot	06/08/2007	34.090604	-118.206428	Rogelio Delgado	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/06/rogelio_delgado.html
+10347	40	Gunshot	06/08/2007	34.028563	-118.232033	Celerino Reyes	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/06/celerino_reyes_.html
+10348	18	Gunshot	06/08/2007	34.269187	-118.47598	William Campos	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/06/william_campos_.html
+10493	28	Gunshot	06/08/2007	34.246592	-118.275788	Arman Tomanyan	White	Male	http://latimesblogs.latimes.com/homicidereport/2007/06/arman_tomanyan_.html
+10344	43	Gunshot	06/07/2007	34.01304	-118.16043	Rosa Gonzalez	Hispanic	Female	http://latimesblogs.latimes.com/homicidereport/2007/06/rosa_maria_gonz.html
+10343	22	Gunshot	06/06/2007	33.900779	-118.210859	Christopher Rice	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/06/christopher_mar.html
+10342	21	Gunshot	06/05/2007	33.904367	-118.23806	Andrew Padilla Jr.	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/06/andrew_padilla_.html
+10341	36	Gunshot	06/04/2007	33.898047	-118.223846	Keith Hardy	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/06/keith_hardy.html
+10337	37	Blunt Force	06/03/2007	34.012506	-118.496497	Reza Tehrani	White	Male	http://latimesblogs.latimes.com/homicidereport/2007/06/reza_tehrani_37.html
+10338	41	Blunt Force	06/03/2007	34.052979	-118.31477	James McKinney	White	Male	http://latimesblogs.latimes.com/homicidereport/2007/06/james_mckinney_.html
+10339	60	Stabbing	06/03/2007	33.887399	-118.200907	Irvin Carter	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/06/irvin_carter.html
+10340	18	Gunshot	06/03/2007	33.985563	-118.228833	Dennise Regalado	Hispanic	Female	http://latimesblogs.latimes.com/homicidereport/2007/06/regalado_dennis.html
+10332	20	Gunshot	06/02/2007	34.14072228	-118.2761908	Michael Rodriguez	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/06/michael_rodrigu.html
+10333	15	Gunshot	06/02/2007	34.099	-118.2292	Randy Martinez	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/06/randy_martinez_.html
+10334	31	Gunshot	06/02/2007	34.012488	-118.309065	Stanley Daniels	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/06/stanley_daniels.html
+10335	44	Other	06/02/2007	34.048569	-118.206565	Henry Rodriguez Jr	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/06/henry_rodriguez.html
+10336	29	Gunshot	06/02/2007	34.6993	-118.101166	Kevin Smoot	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/06/kevin_smoot_29.html
+10331	17	Stabbing	06/01/2007	34.032334	-117.926059	Kedric Entena	Asian	Male	http://latimesblogs.latimes.com/homicidereport/2007/06/kedric_entena_1.html
+10329	19	Gunshot	05/30/2007	33.8586	-118.1599	Marcus Peters	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/06/marcus_peters_1.html
+10330	21	Gunshot	05/30/2007	33.971001	-118.21068	Juan Sanchez Jr	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/06/juan_sanchez_jr.html
+10326	18	Gunshot	05/29/2007	33.966573	-118.262457	Carnell Ardoine	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/05/carnell_dayvion.html
+10327	31	Gunshot	05/29/2007	33.9833	-118.2739	Karina Michel	Hispanic	Female	http://latimesblogs.latimes.com/homicidereport/2007/06/karina_michel_3.html
+10328	31	Gunshot	05/29/2007	34.0871	-118.3703	Orlando Ortega	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/06/orlando_ortega_.html
+10325	22	Gunshot	05/28/2007	34.062762	-117.881233	Visaal Tulsi	Other	Male	http://latimesblogs.latimes.com/homicidereport/2007/05/visaal_tulsi_22.html
+10322	27	Gunshot	05/28/2007	34.250043	-118.411055	Antonio Magana	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/05/antonio_magana_.html
+10323	18	Gunshot	05/28/2007	34.0399	-118.309	Mario Martinez	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/05/mario_martinez_.html
+10324	18	Gunshot	05/28/2007	33.9555	-118.2739	Jamar Witherspoon	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/05/just_in_officer.html
+10321	27	Gunshot	05/27/2007	34.025461	-118.262571	Ana Artiga	Hispanic	Female	http://latimesblogs.latimes.com/homicidereport/2007/05/ana_artiga_27.html
+10319	19	Gunshot	05/27/2007	33.998263	-118.251933	Aaron Romero	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/05/aaron_romero_19.html
+10320	25	Gunshot	05/27/2007	33.956169	-118.078204	Michael Rosas	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/05/michael_rosas_2.html
+10316	22	Gunshot	05/26/2007	33.969501	-118.161391	Armando Espericueta Jr.	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/05/armando_esperic.html
+10317	17	Gunshot	05/26/2007	33.883998	-118.2546	Quanisha Pitts	Black	Female	http://latimesblogs.latimes.com/homicidereport/2007/05/just_in_girl_ki.html
+10318	20	Gunshot	05/26/2007	33.892363	-118.181434	Jeremy Howard	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/05/just_in_young_m.html
+10315	24	Gunshot	05/25/2007	33.9891	-118.2915	Wayne McKinney	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/05/wayne_mckinney_.html
+10313	22	Stabbing	05/24/2007	34.587437	-118.126149	Paul Martinez	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/05/paul_martinez_2.html
+10314	46	Gunshot	05/24/2007	33.960812	-118.269334	Joaquin Aguilar	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/05/joaquin_aguilar.html
+10494	25	Blunt Force	05/24/2007	34.059271	-118.230949	Edgar Jimenez	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/06/edgar_jimenez_2.html
+10312	51	Blunt Force	05/23/2007	34.02733951	-118.0130768	Jose Hernandez	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/05/jose_hernandez_.html
+10311	51	Gunshot	05/22/2007	34.07335	-118.3091	Hyo Lim	Asian	Male	http://latimesblogs.latimes.com/homicidereport/2007/05/hyo_lim_51.html
+10308	20	Gunshot	05/20/2007	33.97185	-118.09124	Andrew Santistevan, Jr	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/05/andrew_santiste.html
+10309	16	Gunshot	05/20/2007	34.041396	-117.764222	Raymond Garcia	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/05/raymond_garcia_.html
+10310	21	Gunshot	05/20/2007	33.976816	-118.163251	Francisco Sanchez	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/05/francisco_sanch.html
+10491	20	Gunshot	05/20/2007	33.976581	-118.163448	Miguel Sanchez	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/05/the_homicide_re_1.html
+10307	60	Gunshot	05/19/2007	34.0206	-118.2729	Ronald Ball	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/05/ronald_ball_60.html
+10306	26	Gunshot	05/18/2007	34.018663	-118.198195	Alfredo Morales	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/05/alfredo_morales.html
+10305	36	Gunshot	05/18/2007	33.743163	-118.289783	Christopher Davenport	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/05/christopher_dav.html
+10304	42	Gunshot	05/16/2007	34.272666	-118.347966	Carlos Ornelas	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/05/carlos_ornelas_.html
+10490	24	Gunshot	05/16/2007	33.963756	-118.264414	Renny Contreras Mendez	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/05/renny_contreras.html
+10303	21	Gunshot	05/15/2007	33.981737	-118.255046	Mario Lopez	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/05/mario_lopez_21.html
+10301	26	Gunshot	05/14/2007	33.9237	-118.2544	Carl Martin Pickering Jr.	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/05/carl_martin_pic.html
+10302	18	Gunshot	05/14/2007	33.885113	-118.20369	Wilbert Mahone	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/05/wilbert_mahone_.html
+10298	25	Stabbing	05/13/2007	34.678535	-118.156963	Jermaine Tryon	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/05/jermaine_tryon_.html
+10299	43	Stabbing	05/13/2007	34.0428	-118.2532	Raymond Gray	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/05/raymond_gray_43.html
+10300	45	Other	05/13/2007	34.100964	-118.338533	Roderick Poole	White	Male	http://latimesblogs.latimes.com/homicidereport/2007/05/roderick_poole_.html
+10296	19	Gunshot	05/12/2007	33.9016	-118.202	Ventura Saenz	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/05/new_an_exchange.html
+10297	31	Gunshot	05/12/2007	33.921747	-118.211762	Hector Jara	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/05/hector_jara_31.html
+10293	30	Gunshot	05/11/2007	34.012421	-118.144107	Juan Velasco	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/05/juan_velasco_30.html
+10294	25	Stabbing	05/11/2007	34.152126	-118.651502	Barbarita Luna	Hispanic	Female	http://latimesblogs.latimes.com/homicidereport/2007/05/barbarita_luna_.html
+10295	18	Gunshot	05/11/2007	33.966263	-118.310259	Bryant Tennelle	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/05/bryant_tennelle.html
+10292	52	Gunshot	05/10/2007	33.9019	-118.3962	Andrew MacEarchern	White	Male	http://latimesblogs.latimes.com/homicidereport/2007/05/andrew_macearch.html
+10287	39	Gunshot	05/09/2007	34.718841	-118.172231	Melvin Bright Jr.	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/05/melvin_bright_j.html
+10288	52	Stabbing	05/09/2007	33.885491	-118.232497	Jose Orellana	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/05/jose_orellana_5.html
+10289	20	Gunshot	05/09/2007	33.971473	-118.365811	Richard Tyson	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/05/new_gunfire_spr.html
+10290	34	Gunshot	05/09/2007	33.965663	-118.247329	Carl Dixon	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/05/carl_dixon_34.html
+10291	29	Gunshot	05/09/2007	34.061399	-118.269452	Manuel Saucedo	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/05/manuel_saucedo_.html
+10285	20	Gunshot	05/08/2007	34.14764	-118.144272	Jamal Varcasia	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/05/jamal_varcasia_.html
+10286	19	Stabbing	05/08/2007	33.885263	-118.286564	Daniel Contreras	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/05/daniel_contrera.html
+10282	21	Stabbing	05/07/2007	34.105101	-117.907433	Jimmy Khounchanh	Asian	Male	http://latimesblogs.latimes.com/homicidereport/2007/05/jimmy_khounchan.html
+10283	37	Gunshot	05/07/2007	34.168973	-118.14824	Tony Walker 	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/05/tony_walker_37.html
+10284	27	Gunshot	05/07/2007	33.939778	-118.296111	Rachelle Washington	Black	Female	http://latimesblogs.latimes.com/homicidereport/2007/05/rachelle_washin.html
+10276	41	Gunshot	05/06/2007	33.9273	-118.345	Marco Smith	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/05/marco_smith_41.html
+10277	47	Gunshot	05/06/2007	34.190354	-118.527465	Norman Stauffer	White	Male	http://latimesblogs.latimes.com/homicidereport/2007/05/norman_stauffer.html
+10279	29	Gunshot	05/06/2007	33.930537	-118.350134	David Erickson	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/05/david_erickson_.html
+10281	25	Gunshot	05/06/2007	34.065103	-118.2546	Armando Gonzalez	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/05/latino_man_unid.html
+10274	45	Gunshot	05/05/2007	33.93605	-118.277934	Mario Jackson	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/05/new_four_dead_o.html
+10275	37	Gunshot	05/05/2007	33.93605	-118.277934	Tierney Yates	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/05/tierney_yates_3.html
+10270	48	Gunshot	05/04/2007	34.005383	-118.249669	Johnny Bridges	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/05/johnny_bridges_.html
+10271	28	Gunshot	05/04/2007	34.161056	-118.320243	Roxanne Paul	White	Female	http://latimesblogs.latimes.com/homicidereport/2007/05/new_woman_kille.html
+10272	19	Gunshot	05/04/2007	34.23194	-118.47442	Dennys Pacheco 	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/05/dennys_pacheco_.html
+10273	18	Gunshot	05/04/2007	34.038522	-118.200806	Alan Torres	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/05/alan_torres_18.html
+10267	17	Gunshot	05/03/2007	33.840301	-118.260169	Jahaira Keys	Black	Female	http://latimesblogs.latimes.com/homicidereport/2007/05/jahaira_keys_17.html
+10268	24	Stabbing	05/03/2007	33.919637	-118.108933	Ricardo Rivera	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/05/ricardo_rivera_.html
+10269	23	Gunshot	05/03/2007	34.284963	-118.410457	Daniel Mercado	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/05/daniel_mercado_.html
+10265	23	Gunshot	05/02/2007	33.962647	-118.182037	Juan Alviso	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/05/new_cudahy_kill.html
+10266	23	Gunshot	05/02/2007	33.962647	-118.182037	Richard Hernandez	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/05/richard_hernand.html
+10261	0	Blunt Force	05/02/2007	34.580937	-118.111817	 Unknown	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/05/john_doe_newbor.html
+10262	44	Gunshot	05/02/2007	33.936268	-118.227979	Donald Stevens	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/05/donald_stevens_.html
+10263	54	Gunshot	05/02/2007	34.006573	-118.320233	Melvin James	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/05/melvin_james_54.html
+10264	25	Stabbing	05/02/2007	33.945221	-118.309164	Larry Scott	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/05/larry_scott_25.html
+10260	57	Blunt Force	05/01/2007	34.2142	-118.4662	Eugene Morello	White	Male	http://latimesblogs.latimes.com/homicidereport/2007/05/eugene_morello_.html
+10256	29	Gunshot	05/01/2007	34.036215	-118.270724	Mary Castro	Hispanic	Female	http://latimesblogs.latimes.com/homicidereport/2007/05/mary_castro_29.html
+10257	51	Gunshot	05/01/2007	33.819926	-118.269864	Antonio Escareal	Asian	Male	http://latimesblogs.latimes.com/homicidereport/2007/05/antonio_escarea.html
+10258	24	Gunshot	05/01/2007	34.410864	-118.451814	Crystal Burton	White	Female	http://latimesblogs.latimes.com/homicidereport/2007/05/crystal_burton_.html
+10259	8	Gunshot	05/01/2007	34.410864	-118.451814	Angelica Maldonado	White	Female	http://latimesblogs.latimes.com/homicidereport/2007/05/angelica_maldon.html
+10250	23	Gunshot	04/29/2007	34.147963	-118.000833	Jorge Rostran	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/04/jorge_rostran_2.html
+10251	23	Other	04/29/2007	33.981745	-118.333633	Aubrey Gibson	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/04/aubrey_gibson_2.html
+10252	45	Stabbing	04/29/2007	34.017536	-117.862759	Michael Padilla	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/04/michael_padilla.html
+10253	44	Gunshot	04/29/2007	34.07422	-118.220711	Alfonso Barrientos Jr.	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/04/alfonso_barrien.html
+10254	20	Gunshot	04/29/2007	33.9362	-118.22265	Anthony Adame	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/04/anthony_adame_2.html
+10255	53	Stabbing	04/29/2007	33.895863	-118.221934	Ella Suggs	Black	Female	http://latimesblogs.latimes.com/homicidereport/2007/04/ella_suggs_53.html
+10248	34	Gunshot	04/28/2007	34.032463	-118.342304	Robert Hunter	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/04/robert_hunter_3.html
+10249	28	Gunshot	04/28/2007	33.971162	-118.359464	Ralph Hope Jr.	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/04/ralph_hope_jr_2.html
+10246	60	Gunshot	04/27/2007	33.796345	-118.310799	Sonia Risken	Asian	Female	http://latimesblogs.latimes.com/homicidereport/2007/04/sonia_risken_60.html
+10247	16	Gunshot	04/27/2007	33.9965	-118.2827	Wilbert Jackson	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/04/wilbert_jackson.html
+10244	21	Gunshot	04/26/2007	33.822063	-118.302104	Pedro Renteria	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/04/pedro_renteria_.html
+10245	18	Gunshot	04/26/2007	34.20476	-118.41468	Marat Manukyan	White	Male	http://latimesblogs.latimes.com/homicidereport/2007/04/marat_manukyan_.html
+10243	18	Stabbing	04/24/2007	34.080489	-117.877485	Jesse Kyle	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/04/jesse_kyle_18.html
+10242	21	Gunshot	04/23/2007	33.936398	-118.357934	Enrique Beltran	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/04/enrique_beltran.html
+10239	20	Gunshot	04/22/2007	33.79131	-118.19109	Eric Mandivelle	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/04/eric_mandeville.html
+10240	25	Gunshot	04/22/2007	33.987237	-118.256189	Wilbert Jones	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/04/wilbert_jones_2.html
+10241	47	Gunshot	04/22/2007	33.793791	-118.183834	Alfred Henderson	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/04/alfred_henderso.html
+10238	18	Gunshot	04/21/2007	34.14072228	-118.2761908	Michael Rodriguez	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/04/michael_rodrigu.html
+10237	35	Gunshot	04/21/2007	34.055281	-118.441562	Carvell Baker	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/04/carvell_baker_3.html
+10232	41	Gunshot	04/19/2007	33.980722	-118.291299	Maurice Hill	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/04/maurice_hill_41.html
+10233	26	Gunshot	04/19/2007	33.968463	-118.237973	Leonard Munoz	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/04/leonard_munoz.html
+10234	23	Gunshot	04/19/2007	33.96874	-118.23795	Michael Huguez	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/04/michael_huguez_.html
+10235	23	Gunshot	04/19/2007	33.92356	-118.23554	Isaac Lashon Tobias	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/04/isaac_tobias_23.html
+10236	44	Gunshot	04/19/2007	34.066987	-118.34516	Ho Ki	Asian	Male	http://latimesblogs.latimes.com/homicidereport/2007/04/ho_ki_44.html
+10231	2	Blunt Force	04/16/2007	33.785158	-118.19811	Anthony Valencia Ramirez	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/04/anthony_ramirez.html
+10230	16	Gunshot	04/15/2007	33.96085	-118.18575	Andrew Ramirez	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/04/andrew_ramirez_.html
+10224	45	Other	04/15/2007	34.042383	-118.215444	Francisco Ramirez	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/04/francisco_ramir.html
+10225	22	Gunshot	04/15/2007	33.9932	-118.3193	Mark Webster	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/04/mark_webster_22.html
+10226	18	Gunshot	04/15/2007	33.80381	-118.2595	Omar Rascon	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/04/omar_rene_rasco.html
+10227	18	Gunshot	04/15/2007	34.245897	-118.406676	Alejandro Montalvo	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/04/alejandro_monta.html
+10228	18	Gunshot	04/15/2007	34.0467	-118.2126	Misael Mendoza	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/04/misael_mendoza_.html
+10229	18	Gunshot	04/15/2007	34.19418	-118.45744	Manuel Lopez	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/04/manuel_ramirez_.html
+10222	18	Gunshot	04/15/2007	34.044063	-118.176701	Ramon De Paz	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/04/ramon_de_paz_18.html
+10223	22	Gunshot	04/15/2007	33.989	-118.33085	Marquise Alexander	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/04/marquise_alexan.html
+10220	23	Gunshot	04/14/2007	33.9892	-118.2161	Eraclio Martinez	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/04/eraclio_martine.html
+10221	30	Gunshot	04/14/2007	34.021492	-118.320036	Javier Chavez	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/04/javier_orantez_.html
+10219	25	Gunshot	04/13/2007	34.073763	-118.199151	Shurnell West	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/04/shurnell_west_2.html
+10218	25	Gunshot	04/13/2007	34.003611	-118.256333	Juan Martinez	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/04/juan_martinez_2.html
+10216	23	Gunshot	04/11/2007	34.23541	-118.468659	Luis Salinas	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/04/luis_salinas_23.html
+10217	18	Gunshot	04/11/2007	33.937563	-118.334078	Rogelio Gomez	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/04/rogelio_gomez_1.html
+10215	17	Gunshot	04/10/2007	33.9123	-118.1689	Francisco Flores	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/04/francisco_flore.html
+10214	45	Gunshot	04/10/2007	34.007188	-118.2795	Jose Valdez	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/04/jose_alberto_da.html
+10211	34	Gunshot	04/09/2007	33.943944	-118.296364	Damont Johnson	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/04/damont_johnson_.html
+10212	16	Gunshot	04/09/2007	34.0595	-118.2573	Joel Martinez	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/04/joel_martinez_1.html
+10213	45	Gunshot	04/09/2007	34.205963	-118.516222	John Goudeaux	White	Male	http://latimesblogs.latimes.com/homicidereport/2007/04/john_goudeaux_4.html
+10210	26	Gunshot	04/08/2007	34.048993	-117.744263	Michael Limon	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/04/michael_limon_2.html
+10205	21	Gunshot	04/08/2007	33.9375	-118.2326	Fabian Cooper	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/04/fabian_cooper_2.html
+10206	44	Gunshot	04/08/2007	34.0536	-117.7391	Mychael Whitaker	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/04/mychael_whitake.html
+10207	19	Gunshot	04/08/2007	33.9375	-118.2326	Salvador Arredondo	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/04/salvardo_arredo.html
+10208	25	Other	04/08/2007	33.971237	-118.197772	Raul Cano	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/04/raul_cano_25.html
+10209	23	Gunshot	04/08/2007	34.204663	-118.447735	Jose Garcia	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/04/jose_garcia_23.html
+10204	26	Stabbing	04/07/2007	33.910046	-118.234571	Jermail Gillis	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/04/jermail_gillis_.html
+10198	31	Gunshot	04/06/2007	33.8428	-118.1938	Ian Burkett	White	Male	http://latimesblogs.latimes.com/homicidereport/2007/04/ian_burkett_31.html
+10199	23	Gunshot	04/06/2007	33.977429	-118.329234	Jonathan McCarroll	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/04/jonathan_mccarr.html
+10200	52	Stabbing	04/06/2007	33.9274	-118.2826	Lemparia Hernandez	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/04/john_doe_no_53_.html
+10201	40	Gunshot	04/06/2007	33.948146	-118.097338	Edmund Wong	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/04/edmund_wong_40.html
+10202	24	Gunshot	04/06/2007	33.94498	-118.27068	Maurice Davis 	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/04/maurice_davis_2.html
+10203	44	Stabbing	04/06/2007	34.113481	-118.236734	Maria Zavala	Hispanic	Female	http://latimesblogs.latimes.com/homicidereport/2007/04/maria_zavala_44.html
+10197	14	Gunshot	04/05/2007	33.964637	-118.326767	Kenny Haulman	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/04/kenny_haulman_1.html
+10194	28	Gunshot	04/05/2007	34.030033	-117.916294	Jesse Rivera	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/04/jesse_rivera_28.html
+10195	50	Blunt Force	04/05/2007	34.460305	-118.622899	Lawana Clary	White	Female	http://latimesblogs.latimes.com/homicidereport/2007/04/lawana_clary_50.html
+10196	27	Gunshot	04/05/2007	33.931112	-118.32179	Dana Grays, Jr.	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/04/dana_grays_jr_2.html
+10193	17	Gunshot	04/04/2007	34.023213	-118.317533	Carlos Gomez	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/04/carlos_gomez_17.html
+10189	31	Gunshot	04/02/2007	33.9609	-118.3265	Dwayne Smith	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/04/dwayne_smith_31.html
+10190	51	Gunshot	04/02/2007	34.067567	-118.181749	Robert Trujillo Jr.	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/04/robert_trujillo.html
+10191	56	Gunshot	04/02/2007	34.067567	-118.18175	Thomas Dewey	White	Male	http://latimesblogs.latimes.com/homicidereport/2007/04/thomas_dewey_56.html
+10192	29	Gunshot	04/02/2007	33.939538	-118.361502	Jaime Flores	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/04/jaime_flores_29.html
+10187	27	Gunshot	04/01/2007	34.029782	-118.362872	Eric Salazar	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/04/eric_salazar_27.html
+10184	33	Gunshot	04/01/2007	33.982305	-118.331065	Gerald Jones	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/04/gerald_jones_33.html
+10185	38	Gunshot	04/01/2007	34.011653	-118.34887	Anthony Jones	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/04/anthony_jones_3.html
+10186	21	Gunshot	04/01/2007	34.04919	-118.205776	Luis Romo	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/04/luis_romo_21.html
+10188	18	Gunshot	04/01/2007	33.9512	-118.3134	Kenneth Frison	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/04/kenneth_frison_.html
+10183	19	Gunshot	03/31/2007	34.025668	-118.31293	Kurtis Livingston	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/04/kurtis_livingst.html
+10177	24	Gunshot	03/29/2007	33.964563	-118.260067	Gabriela Gonzalez	Hispanic	Female	http://latimesblogs.latimes.com/homicidereport/2007/04/gabriela_gonzal.html
+10178	2	Gunshot	03/29/2007	33.964563	-118.260067	Gabriela Melara	Hispanic	Female	http://latimesblogs.latimes.com/homicidereport/2007/04/gabriela_melara.html
+10179	1	Gunshot	03/29/2007	33.964563	-118.260067	Asbel Melara	Hispanic	Female	http://latimesblogs.latimes.com/homicidereport/2007/04/asbel_melara_15.html
+10180	22	Gunshot	03/29/2007	34.0908	-118.3212	Miguel Macias	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/04/miguel_macias_2.html
+10181	41	Gunshot	03/29/2007	33.916263	-118.211144	Jerry Adams	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/04/jerry_adams_41.html
+10182	30	Gunshot	03/29/2007	33.953008	-118.35653	Santiago Crusenos-Bernabe	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/04/santiago_crusen.html
+10176	39	Gunshot	03/28/2007	34.09871	-118.30434	Hector Luis Flores	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/04/hector_luis_flo.html
+10175	23	Gunshot	03/28/2007	34.0701	-117.9805	Joe Hinojos	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/04/joe_hinojos_23.html
+10174	47	Blunt Force	03/27/2007	34.691532	-118.236432	Robert Baker	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/04/robert_baker_47.html
+10172	19	Gunshot	03/26/2007	34.008238	-118.27282	Deonte Freeman	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/04/deonte_j_freema.html
+10173	19	Gunshot	03/26/2007	34.235754	-118.45169	Hector Balderas	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/04/hector_balderas.html
+10171	1	Gunshot	03/25/2007	33.954809	-118.258526	Qristyonn Augustine	Black	Female	http://latimesblogs.latimes.com/homicidereport/2007/04/qristyonn_augus.html
+10170	25	Stabbing	03/25/2007	34.141894	-118.36968	Wayne Hughes	White	Male	http://latimesblogs.latimes.com/homicidereport/2007/03/wayne_hughes_26.html
+10166	30	Gunshot	03/24/2007	34.066206	-117.723065	Rolland Holloway	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/03/rolland_hollowa.html
+10167	36	Gunshot	03/24/2007	34.066206	-117.723065	Pamela Campbell	Black	Female	http://latimesblogs.latimes.com/homicidereport/2007/03/pamela_campbell.html
+10168	16	Gunshot	03/24/2007	34.043574	-118.2133	Michael Flores	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/03/michael_flores_.html
+10169	34	Stabbing	03/24/2007	34.096617	-118.326656	Michael Bragg	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/03/michael_bragg_3.html
+10164	48	Gunshot	03/23/2007	33.887437	-118.16334	Keith Shutt	White	Male	http://latimesblogs.latimes.com/homicidereport/2007/03/keith_shutt_48.html
+10165	36	Blunt Force	03/23/2007	33.886579	-118.254808	Marcus Grays	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/03/marcus_grays_36.html
+10163	38	Gunshot	03/22/2007	34.021356	-118.321133	Jerome Stallworth	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/03/jerome_stallwor.html
+10162	82	Blunt Force	03/21/2007	34.032193	-118.285453	Robert Belton Sr.	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/03/robert_belton_s.html
+10161	18	Gunshot	03/20/2007	34.054935	-117.76973	Carlos Gonzales	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/03/carlos_gonzales.html
+10160	25	Gunshot	03/19/2007	33.901901	-118.100264	Victor Arroyo	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/03/victor_arroyo_2.html
+10159	34	Gunshot	03/18/2007	34.002798	-118.242933	Laura Sanchez	Hispanic	Female	http://latimesblogs.latimes.com/homicidereport/2007/03/laura_sanchez_3.html
+10156	24	Gunshot	03/18/2007	33.793936	-118.178496	Jerem Angeles	Asian	Male	http://latimesblogs.latimes.com/homicidereport/2007/03/jerem_angeles_2.html
+10157	22	Gunshot	03/18/2007	34.67497	-118.21023	Darel Smith	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/03/darel_thomas_sm.html
+10158	32	Gunshot	03/18/2007	34.206443	-118.16435	Monroe Miles	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/03/monroe_miles_32.html
+10154	16	Gunshot	03/17/2007	34.0171	-118.2618	Nelli Rodriguez	Hispanic	Female	http://latimesblogs.latimes.com/homicidereport/2007/03/nelli_rodriguez.html
+10151	25	Gunshot	03/17/2007	34.120081	-118.245097	Robin Lavigne	Black	Female	http://latimesblogs.latimes.com/homicidereport/2007/03/robin_lavigne_2.html
+10152	33	Gunshot	03/17/2007	34.016914	-118.261732	Rafael Rivera	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/03/rafael_rivera_3.html
+10153	28	Other	03/17/2007	34.236566	-117.816995	Luciano Barajas	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/03/luciano_barajas.html
+10155	17	Gunshot	03/17/2007	33.887268	-118.206	Manuel Perez	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/03/manuel_perez_17.html
+10150	31	Gunshot	03/15/2007	33.91368	-118.34282	Lamar Rambo	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/03/rambo_lamar_31.html
+10147	34	Gunshot	03/13/2007	34.161967	-118.361369	David Weisman	White	Male	http://latimesblogs.latimes.com/homicidereport/2007/03/david_weisman_3.html
+10148	22	Gunshot	03/13/2007	33.924083	-118.15166	Shahin Soudmand	White	Male	http://latimesblogs.latimes.com/homicidereport/2007/03/shahin_soudmand.html
+10149	67	Blunt Force	03/13/2007	34.000963	-118.0826	Marlene Johnson	White	Female	http://latimesblogs.latimes.com/homicidereport/2007/03/marlene_johnson.html
+10146	24	Gunshot	03/12/2007	34.12225	-118.341734	Akop Akopyan	White	Male	http://latimesblogs.latimes.com/homicidereport/2007/03/akop_akopian_24.html
+10145	28	Other	03/12/2007	33.922067	-118.35589	Aneesah Akbar	Black	Female	http://latimesblogs.latimes.com/homicidereport/2007/03/aneesah_daaimah.html
+10144	27	Stabbing	03/11/2007	34.041363	-118.169033	Roberto Amante	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/03/roberto_amante_.html
+10141	38	Gunshot	03/10/2007	33.883183	-118.232614	Jorge Gonzalez	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/03/jorge_gonzalez_.html
+10142	22	Gunshot	03/10/2007	33.883183	-118.232614	Lourdes Martinez	Hispanic	Female	http://latimesblogs.latimes.com/homicidereport/2007/03/lourdes_martine.html
+10143	32	Gunshot	03/10/2007	33.983537	-118.217645	Angel Ramirez	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/03/angel_ramirez_3.html
+10139	48	Gunshot	03/09/2007	34.045692	-118.353563	Steven Robinson	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/03/steven_robinson.html
+10140	47	Gunshot	03/09/2007	34.006639	-118.35033	Kimberly Robbins	White	Female	http://latimesblogs.latimes.com/homicidereport/2007/03/kimberly_robbin.html
+10137	23	Gunshot	03/08/2007	33.781517	-118.267893	Daniel Urenda	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/03/daniel_urenda_2.html
+10138	16	Gunshot	03/08/2007	33.964163	-118.282863	Danny Saavedra	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/03/danny_saavedra_.html
+10136	15	Stabbing	03/08/2007	34.062863	-118.0537	Fernando Tello	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/03/fernando_tello_.html
+10135	28	Gunshot	03/07/2007	33.934211	-118.300134	Ortavin Hill	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/03/ortavin_hill_28.html
+10132	18	Gunshot	03/06/2007	34.1949	-118.4313	Juan Morales	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/03/juan_morales_18.html
+10133	18	Gunshot	03/06/2007	34.033737	-117.934633	Fidel Navarette Jr.	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/03/fidel_navarette.html
+10134	17	Gunshot	03/06/2007	33.789763	-118.192681	Edgar Sanchez	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/03/edgar_sanchez_1.html
+10131	26	Stabbing	03/05/2007	34.218744	-118.597665	Jose Montalvo	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/03/jose_montalvo_2.html
+10127	26	Gunshot	03/04/2007	33.986363	-118.074033	Victorio Pratti	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/03/victorio_pratti.html
+10128	20	Gunshot	03/04/2007	33.955763	-118.296063	Ruben Rodriguez	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/03/ruben_rodriguez.html
+10129	25	Gunshot	03/04/2007	34.0185	-118.3138	Antonio Bland	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/03/antonio_bland_2.html
+10130	16	Gunshot	03/04/2007	33.9836	-118.2252	Antonio Beabraut	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/03/antonio_beabrau.html
+10126	28	Stabbing	03/03/2007	34.22120634	-118.5201216	Daniel Correa	White	Male	http://latimesblogs.latimes.com/homicidereport/2007/03/daniel_correa_2.html
+10125	17	Gunshot	03/03/2007	34.192778	-118.48167	Jason Aguilar	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/04/jason_estuardo_.html
+10123	32	Gunshot	03/02/2007	34.048154	-118.388982	Brian Chapman	White	Male	http://latimesblogs.latimes.com/homicidereport/2007/03/brian_chapman_3.html
+10124	18	Gunshot	03/02/2007	34.047026	-118.221902	Jonathan Hurtado	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/03/jonathan_hurtad.html
+10122	29	Gunshot	02/28/2007	34.033848	-118.2178	Jose Gonzalez Jr.	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/04/jose_gonzalez_j.html
+10121	33	Other	02/28/2007	34.110827	-118.263595	Verona Mae Sebastian	White	Female	http://latimesblogs.latimes.com/homicidereport/2007/03/verona_mae_seba.html
+10119	47	Gunshot	02/27/2007	33.9067	-118.1522	Frank Melendez	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/03/frank_melendez_.html
+10120	22	Gunshot	02/27/2007	33.791763	-118.296401	Ramon Alvarez	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/03/ramon_alvarez_2.html
+10118	41	Gunshot	02/26/2007	34.087965	-118.042578	Raymond Moss	White	Male	http://latimesblogs.latimes.com/homicidereport/2007/03/raymond_moss_41.html
+10116	19	Gunshot	02/25/2007	34.029486	-118.292507	Spurgeon McClendon, III	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/03/spurgeon_mcclen.html
+10117	20	Gunshot	02/25/2007	34.190563	-118.446665	Mario Chirinos	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/03/mario_chirinos_.html
+10115	70	Gunshot	02/25/2007	34.0189	-118.1903	Luis Sandoval	White	Male	http:A//latimesblogs.latimes.com/homicidereport/2007/06/luis-sandoval-7.html
+10112	15	Stabbing	02/24/2007	34.04085	-117.798205	Kevin Fu	Asian	Male	http://latimesblogs.latimes.com/homicidereport/2007/03/kevin_fu_15.html
+10113	33	Gunshot	02/24/2007	33.87869	-118.186221	Mauro Otero	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/03/mauro_otero_33.html
+10114	25	Gunshot	02/24/2007	34.0164	-118.2741	Marcellus Wright	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/03/marcellus_wrigh.html
+10111	58	Gunshot	02/23/2007	33.943164	-118.213784	Manuel Yanez	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/03/manuel_yanez_58.html
+10110	17	Stabbing	02/23/2007	33.937744	-118.304534	Alex Contreras-Rodriguez	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/03/alex_contrerasr.html
+10108	38	Blunt Force	02/22/2007	33.97805	-118.29165	Jorge Ramirez	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/03/jorge_ramirez_3.html
+10109	25	Blunt Force	02/22/2007	34.691037	-118.131693	Leon Huddleston	White	Male	http://latimesblogs.latimes.com/homicidereport/2007/03/leon_huddleston.html
+10107	23	Gunshot	02/21/2007	33.933537	-118.234783	William Pious	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/03/william_pious_2.html
+10105	17	Gunshot	02/20/2007	34.033503	-118.333069	Sidney Garrett	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/03/sidney_garrett_.html
+10106	82	Other	02/20/2007	34.187123	-118.546662	Rosa Ramos	Hispanic	Female	http://latimesblogs.latimes.com/homicidereport/2007/03/rosa_ramos_82.html
+10101	21	Gunshot	02/18/2007	33.955703	-118.222574	Raul Contreras	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/02/raul_contreras_.html
+10102	46	Gunshot	02/18/2007	34.066263	-117.739638	Stanley Williams	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/02/stanley_william.html
+10103	17	Gunshot	02/18/2007	34.192598	-118.370133	Randy Almanza	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/03/randy_almanza_1.html
+10104	21	Gunshot	02/18/2007	33.807328	-118.357734	Erasmo Santos	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/03/erasmo_santos_2.html
+10099	31	Gunshot	02/16/2007	33.77637	-118.167534	Dino Marks	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/02/dino_marks_31.html
+10100	33	Gunshot	02/16/2007	33.988042	-118.229265	Gilberto Garcia	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/02/gilberto_garcia.html
+10098	19	Gunshot	02/15/2007	34.054971	-118.09953	Jorge Pacheco	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/02/jorge_pacheco_1.html
+10097	15	Gunshot	02/14/2007	34.001937	-118.247108	Ricardo Lazarraga	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/02/ricardo_lazarra_1.html
+10095	22	Blunt Force	02/14/2007	34.080009	-118.198006	Joseph Mendoza	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/02/joseph_mendoza_.html
+10096	23	Gunshot	02/14/2007	34.201356	-118.446465	Albert Chim	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/02/albert_chim_23.html
+10093	35	Gunshot	02/13/2007	33.95776	-118.25576	Lewis Carter 	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/02/lewis_carter_35.html
+10094	23	Gunshot	02/13/2007	33.975379	-118.215293	Martin Encinas	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/02/martin_encinas_.html
+10090	16	Blunt Force	02/12/2007	33.9843	-118.2541	Enrique Cabrera Jr.	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/02/enrique_cabrera.html
+10091	50	Gunshot	02/12/2007	34.587163	-118.106931	Fred Luna	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/02/fred_luna_50.html
+10092	43	Blunt Force	02/12/2007	34.053584	-118.44386	Moussa Haroonian	White	Male	http://latimesblogs.latimes.com/homicidereport/2007/02/moussa_haroonia.html
+10086	30	Gunshot	02/11/2007	33.903163	-118.239026	Deshawn Cunningham	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/02/deshawn_cunning.html
+10087	20	Gunshot	02/11/2007	33.8986	-118.23775	Rondale Smith	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/02/rondale_smith_2.html
+10088	27	Gunshot	02/11/2007	34.069935	-118.048805	Jose Millan	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/02/jose_millan_27.html
+10089	24	Gunshot	02/11/2007	34.104322	-118.200837	Francisco Saucedo	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/02/francisco_sauce.html
+10083	37	Gunshot	02/09/2007	34.624663	-117.829766	Everett Haydal	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/02/everett_haydal_.html
+10084	39	Stabbing	02/09/2007	33.94393	-118.292064	Robert Zimmerman	White	Male	http://latimesblogs.latimes.com/homicidereport/2007/02/robert_zimmerma.html
+10085	18	Gunshot	02/09/2007	33.948081	-118.265364	Darryl Ingram	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/02/darryl_ingram_1.html
+10081	36	Gunshot	02/08/2007	34.202962	-118.431905	Jace Smith	White	Male	http://latimesblogs.latimes.com/homicidereport/2007/02/jace_smith_36.html
+10080	34	Gunshot	02/08/2007	34.071925	-118.295233	Eugene Robinson	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/02/eugene_robinson.html
+10082	26	Blunt Force	02/08/2007	33.9755	-118.3463	Carlos Hernandez	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/02/carlos_hernande.html
+10079	18	Gunshot	02/07/2007	34.15603	-118.15481	Shawn Baptiste	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/02/shawn_baptiste_.html
+10078	27	Gunshot	02/07/2007	34.057439	-118.1938	Gerard Hernandez	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/02/gerard_hernande.html
+10074	31	Gunshot	02/06/2007	33.977349	-118.329564	Brian Buchanan	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/02/brian_buchanan_.html
+10075	40	Gunshot	02/06/2007	34.119114	-118.194251	Marcia Gonzalez	Hispanic	Female	http://latimesblogs.latimes.com/homicidereport/2007/02/marcia_gonzalez.html
+10076	16	Gunshot	02/06/2007	34.110251	-118.236438	Melissa Paul	Hispanic	Female	http://latimesblogs.latimes.com/homicidereport/2007/02/melissa_paul_16.html
+10077	26	Gunshot	02/06/2007	33.77051	-118.187129	Richard Martinez	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/02/richard_angelo_.html
+10073	17	Gunshot	02/05/2007	33.8316	-118.281776	Damon Johnson	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/02/damon_johnson_1.html
+10071	22	Gunshot	02/05/2007	33.9289	-118.194472	Joe Navarro	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/02/joe_navarro_22.html
+10072	32	Gunshot	02/05/2007	34.057512	-118.213342	Armando Herrera	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/02/armando_herrera.html
+10070	18	Stabbing	02/04/2007	33.885263	-118.286564	Daniel Contreras	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/02/daniel_contrera_1.html
+10069	23	Gunshot	02/03/2007	33.99994	-117.967086	John Quesenberry	White	Male	http://latimesblogs.latimes.com/homicidereport/2007/02/john_quesenberr.html
+10068	21	Gunshot	02/03/2007	33.985837	-118.244974	Enrique Ramos	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/02/enrique_ramos_2.html
+10065	25	Other	02/02/2007	34.30752	-118.47804	Janet Martinez	Hispanic	Female	http://latimesblogs.latimes.com/homicidereport/2007/02/janet_martinez_.html
+10066	21	Gunshot	02/02/2007	34.169916	-118.132074	Deon Mitchell	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/02/serviceman_kill.html
+10067	23	Gunshot	02/02/2007	34.0084	-117.89182	Kevin Ramos	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/02/kevin_ramos_23.html
+10064	25	Other	02/01/2007	34.796478	-118.852913	Geraldo Arellano	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/02/geraldo_arellan.html
+10061	38	Gunshot	01/31/2007	33.739886	-118.372537	Jesus Payan	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/02/jesus_payan_38.html
+10062	17	Gunshot	01/31/2007	34.2356	-118.472	Daniel Martinez	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/02/daniel_martinez.html
+10063	17	Gunshot	01/31/2007	33.982243	-118.183116	Javier Rivera	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/02/javier_rivera_1.html
+10487	22	Gunshot	01/31/2007	33.989221	-118.241172	Joseph Jakori	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/02/joseph_jakori_2.html
+10059	25	Gunshot	01/27/2007	33.929791	-118.13006	Alex Thomas	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/01/alex_thomas_25.html
+10060	24	Gunshot	01/27/2007	34.179263	-118.438502	Rodolfo Cruz	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/01/rodolfo_cruz_24.html
+10058	21	Gunshot	01/26/2007	33.961608	-118.440376	Nicole Harvey	Black	Female	http://latimesblogs.latimes.com/homicidereport/2007/01/nicole_harvey_2.html
+10053	18	Other	01/23/2007	34.2626787	-118.4749746	Renee Spata	Hispanic	Female	http://latimesblogs.latimes.com/homicidereport/2007/01/marvin_tobar_21.html
+10054	21	Other	01/23/2007	34.2626787	-118.4749746	Marvin Tobar	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/01/marvin_tobar_21.html
+10055	22	Stabbing	01/23/2007	34.047073	-118.322333	Emanuel Valenciano	Asian	Male	http://latimesblogs.latimes.com/homicidereport/2007/01/emanuel_valenci.html
+10056	20	Gunshot	01/23/2007	34.026835	-118.349231	Britney MacIntosh	Black	Female	http://latimesblogs.latimes.com/homicidereport/2007/01/britney_macinto.html
+10050	24	Gunshot	01/22/2007	34.059891	-118.281993	Mathew Powell	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/01/mathew_powell_2.html
+10051	35	Gunshot	01/22/2007	33.88611	-118.199719	Elijah Lee	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/01/elijah_lee_35.html
+10052	57	Stabbing	01/22/2007	33.97061	-118.305634	Francisco Zarate	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/01/francisco_zarat.html
+10046	21	Gunshot	01/21/2007	33.871663	-118.27342	Reginald Burson Jr.	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/01/reginald_burson.html
+10047	24	Gunshot	01/21/2007	33.871829	-118.151464	Satiyason Sokun	Asian	Male	http://latimesblogs.latimes.com/homicidereport/2007/01/sovannak_pov_21.html
+10048	21	Gunshot	01/21/2007	33.871829	-118.151464	Sovannak Pov	Asian	Male	http://latimesblogs.latimes.com/homicidereport/2007/01/sovannak_pov_21.html
+10049	15	Gunshot	01/21/2007	33.878263	-118.14941	Jacob Walker	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/01/jacob_walker_15.html
+10045	46	Gunshot	01/20/2007	33.993111	-118.289687	Flor Alvarez	Hispanic	Female	http://latimesblogs.latimes.com/homicidereport/2007/01/flor_alvarez_46.html
+10044	22	Gunshot	01/20/2007	34.2829	-118.399	Armando Vera	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/01/armando_vera_22.html
+10043	17	Gunshot	01/19/2007	33.9364	-118.2963	Joseph Watson	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/01/joseph_watson_1.html
+10040	32	Gunshot	01/18/2007	34.032945	-118.359218	Antonio Torres	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/01/weeks_prior.html
+10041	46	Gunshot	01/18/2007	34.060954	-117.750133	Kevin Rodgers	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/01/weeks_prior.html
+10042	41	Gunshot	01/18/2007	33.7741	-118.2633	Stella Pena	Hispanic	Female	http://latimesblogs.latimes.com/homicidereport/2007/01/weeks_prior.html
+10496	52	Stabbing	01/16/2007	33.869829	-118.186401	Luis Ortiz	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/01/weeks_prior.html
+10038	23	Gunshot	01/15/2007	33.942918	-118.300464	Tyrone Davis	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/01/weeks_prior.html
+10039	55	Gunshot	01/15/2007	34.0301	-118.1924	Benjamin Abella	Asian	Male	http://latimesblogs.latimes.com/homicidereport/2007/01/weeks_prior.html
+10036	46	Gunshot	01/14/2007	34.022937	-118.302299	Lastenia Ciru	Hispanic	Female	http://latimesblogs.latimes.com/homicidereport/2007/01/weeks_prior.html
+10037	21	Gunshot	01/14/2007	33.9421	-118.3047	Jimmy Galo	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/01/weeks_prior.html
+10033	18	Gunshot	01/13/2007	33.915158	-118.214812	Yomaira Sanchez	Hispanic	Female	http://latimesblogs.latimes.com/homicidereport/2007/01/weeks_prior.html
+10034	48	Gunshot	01/13/2007	33.910094	-118.216313	Danny Nelson	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/01/weeks_prior.html
+10035	32	Gunshot	01/13/2007	33.897763	-118.103764	Roberto Trujillo	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/01/weeks_prior.html
+10031	32	Gunshot	01/12/2007	34.183362	-118.364733	Ana Burgos	Hispanic	Female	http://latimesblogs.latimes.com/homicidereport/2007/01/weeks_prior.html
+10032	26	Gunshot	01/12/2007	33.8864	-118.1688	Michael Avalos	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/01/weeks_prior.html
+10028	33	Gunshot	01/11/2007	33.984724	-117.938902	Gregory Chon	Asian	Male	http://latimesblogs.latimes.com/homicidereport/2007/01/weeks_prior.html
+10029	19	Gunshot	01/11/2007	34.02221771	-118.1893301	Ramon Avila	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/01/weeks_prior.html
+10030	24	Gunshot	01/11/2007	33.879978	-118.082564	Carlos Ramirez	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/01/weeks_prior.html
+10027	43	Gunshot	01/10/2007	33.948075	-118.265034	Philip Miller	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/01/weeks_prior.html
+10023	60	Stabbing	01/09/2007	34.095223	-118.348465	Margarita Burd	White	Female	http://latimesblogs.latimes.com/homicidereport/2007/01/weeks_prior.html
+10024	17	Gunshot	01/09/2007	33.979614	-118.286252	Terrence Pruitt	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/01/weeks_prior.html
+10025	20	Gunshot	01/09/2007	33.96576	-118.22464	Miguel Hernandez	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/01/weeks_prior.html
+10026	19	Gunshot	01/09/2007	33.957007	-118.104477	Pedro Lugo	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/01/weeks_prior.html
+10018	22	Stabbing	01/07/2007	34.036163	-118.038142	David Galindo	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/01/weeks_prior.html
+10019	25	Gunshot	01/07/2007	34.049192	-118.0006	Marcel Leal	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/01/weeks_prior.html
+10020	18	Gunshot	01/07/2007	33.938002	-118.309172	Robert Shann	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/01/weeks_prior.html
+10021	49	Gunshot	01/07/2007	33.903563	-118.3614	Terry Rachwitz	White	Male	http://latimesblogs.latimes.com/homicidereport/2007/01/weeks_prior.html
+10022	31	Gunshot	01/07/2007	33.9128	-118.0891	Christopher Rios	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/01/weeks_prior.html
+10014	39	Gunshot	01/06/2007	33.792826	-118.192564	Tasha Brown	Black	Female	http://latimesblogs.latimes.com/homicidereport/2007/01/weeks_prior.html
+10015	21	Gunshot	01/06/2007	34.063537	-117.654324	Michael Ornelas	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/01/weeks_prior.html
+10016	15	Gunshot	01/06/2007	34.201063	-118.448136	Johnny Cano	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/01/weeks_prior.html
+10017	19	Gunshot	01/06/2007	33.956621	-118.25291	Christopher Johnson Jr.	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/01/weeks_prior.html
+10012	22	Gunshot	01/05/2007	33.973162	-118.247534	Edvin Hernandez	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/01/weeks_prior.html
+10013	27	Gunshot	01/05/2007	34.007722	-118.27282	Alex Rivera	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/01/weeks_prior.html
+10011	49	Gunshot	01/04/2007	34.037299	-118.363312	Pamela Lark	Black	Female	http://latimesblogs.latimes.com/homicidereport/2007/01/weeks_prior.html
+10009	47	Gunshot	01/03/2007	33.9565	-118.2564	Felton Kiles Jr.	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/01/weeks_prior.html
+10010	30	Gunshot	01/03/2007	33.948248	-118.247315	Jeronimo Amaya	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/01/weeks_prior.html
+10006	39	Blunt Force	01/03/2007	34.140171	-117.869349	Roberta Shuey	White	Female	http://latimesblogs.latimes.com/homicidereport/2007/01/weeks_prior.html
+10007	56	Stabbing	01/03/2007	33.829143	-118.28443	Fermin Pagaling	Asian	Male	http://latimesblogs.latimes.com/homicidereport/2007/01/weeks_prior.html
+10008	44	Blunt Force	01/03/2007	33.792826	-118.192564	Tanya Settles	Black	Female	http://latimesblogs.latimes.com/homicidereport/2007/01/weeks_prior.html
+10003	44	Gunshot	01/02/2007	33.888563	-118.206334	Michael Cross	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/01/weeks_prior.html
+10004	44	Stabbing	01/02/2007	33.95483	-118.289494	Vladimir Garcia	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/01/weeks_prior.html
+10005	28	Gunshot	01/02/2007	33.942963	-118.236834	Jamal Alexander	Black	Male	http://latimesblogs.latimes.com/homicidereport/2007/01/weeks_prior.html
+10000	23	Stabbing	01/01/2007	34.592282	-117.836921	Jasir Ayuso	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/01/weeks_prior.html
+10002	27	Gunshot	01/01/2007	34.028629	-117.91577	Pete Chavez	Hispanic	Male	http://latimesblogs.latimes.com/homicidereport/2007/01/weeks_prior.html
+10656	53	Blunt Force	01/01/2007	34.180598	-118.384117	Charlie Brown	White	Male	http://latimesblogs.latimes.com/homicidereport/2007/09/man-dies-a-year.html
